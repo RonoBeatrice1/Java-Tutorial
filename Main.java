@@ -7,3 +7,9 @@ public class Main{
         System.out.println("Hello World");
     }
 }
+
+// However, unlike text, we don't put numbers inside double quotes
+//You can also perform mathematical calculations inside the println() method -- System.out.println(3 + 3);
+
+// Single-line comments start with two forward slashes (//).
+//Multi-line comments start with /* and ends with */.
